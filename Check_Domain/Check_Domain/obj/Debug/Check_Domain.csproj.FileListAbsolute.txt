@@ -1,0 +1,7 @@
+C:\Users\Reza_Atom\source\1-Repos\Check_Domain\Check_Domain\obj\Debug\Check_Domain.csprojAssemblyReference.cache
+C:\Users\Reza_Atom\source\1-Repos\Check_Domain\Check_Domain\obj\Debug\Check_Domain.csproj.CoreCompileInputs.cache
+C:\Users\Reza_Atom\source\1-Repos\Check_Domain\Check_Domain\bin\Debug\Check_Domain.exe.config
+C:\Users\Reza_Atom\source\1-Repos\Check_Domain\Check_Domain\bin\Debug\Check_Domain.exe
+C:\Users\Reza_Atom\source\1-Repos\Check_Domain\Check_Domain\bin\Debug\Check_Domain.pdb
+C:\Users\Reza_Atom\source\1-Repos\Check_Domain\Check_Domain\obj\Debug\Check_Domain.exe
+C:\Users\Reza_Atom\source\1-Repos\Check_Domain\Check_Domain\obj\Debug\Check_Domain.pdb
